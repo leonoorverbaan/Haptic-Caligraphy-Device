@@ -23,7 +23,10 @@ This project is a research project answering the following hypothesis:
 ## Features to extend
 
 > *The thickness of the gradient force field of the lines can be thinner at each iteration to see what happens for (learning) performance*
+
 > *How does the (leanrning) performance change when a disturbance is added to the simulation*
+
+> *We can extend even further by adding a language writing module. This means on the left side of the screen we have the letters of a certain language with force feedback tracing and on the right we have the english translation.
 ---
 
 ## Method
