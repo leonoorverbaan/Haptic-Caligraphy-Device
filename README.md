@@ -14,11 +14,9 @@ Calligraphy Project | Group 7
 ---
 
 ## About
-Python implementation of haptic feedback for calligraphy learning by motor control training. This project uses a [Haply] device.
+Python implementation of haptic feedback for calligraphy learning by motor control training. This project uses a [Haply](https://www.haply.co/) device.
 
 This project is a research project answering the following hypothesis:
-
-> *Drawing a single character can be learned in less trials with a Haply than traditional pen and paper trials*
 
 > *It is possible to learn previously unseen calligraphic characters via force feedback*
 
