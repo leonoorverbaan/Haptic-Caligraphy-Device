@@ -22,8 +22,8 @@ This project is a research project answering the following hypothesis:
 
 ## Features to extend
 
-> *The thickness of the gradient force field of the lines can be thinner at each iteration to see what happens for (learning) performance
-> *How does the (leanrning) performance change when a disturbance is added to the simulation
+> *The thickness of the gradient force field of the lines can be thinner at each iteration to see what happens for (learning) performance*
+> *How does the (leanrning) performance change when a disturbance is added to the simulation*
 ---
 
 ## Method
