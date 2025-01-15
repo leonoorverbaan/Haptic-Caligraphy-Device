@@ -1,5 +1,4 @@
-# Haptic-Caligraphy-Device
-# Control in Human Robot Interaction
+# Haptic-Caligraphy-Device for Control in Human Robot Interaction
 
 ## Table of contents
 1. [About](#about)
