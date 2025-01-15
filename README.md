@@ -1,15 +1,12 @@
+# Haptic-Caligraphy-Device
 # Control in Human Robot Interaction
-Calligraphy Project | Group 7
 
 ## Table of contents
 1. [About](#about)
 2. [Method](#method)
 3. [Setup](#setup)
 4. [Usage](#usage)
-5. [Results](#results)
-6. [Conclusion](#conclusion)
-7. [Recommendations](#recommendations)
-8. [Acknowledgements](#acknowledgements) 
+5. [Acknowledgements](#acknowledgements) 
 
 ---
 
@@ -56,21 +53,9 @@ The Haply interface can be controlled with the keyboard.
 
 - Press 'e' to start the excersise
 - Press 'q' to exit the excersise
-- Press 'r' to reset the current excersis
+- Press 'r' to reset the current excersise
 - Press 'n' to go to the next character
 - Press 'd' to toggle character display
-
----
-
-## Results
-Insert figures/tables
-
-## Conclusion
-Hypothesis accepted or rejected?
-
-## Recommendations
-How to improve research method?
-Further look into...
 
 ---
 
